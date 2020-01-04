@@ -6,4 +6,4 @@ title: "Instituto Superior de Administración y Negocios"
 
 ## Asignatura
 
-### __Investigacion de Operaciones I__
+### __Investigación de Operaciones I__
