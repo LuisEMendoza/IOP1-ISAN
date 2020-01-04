@@ -1,0 +1,65 @@
+---
+title: "Encuadre"
+---
+
+## Fines del aprendizaje o formación
+
+Formular modelos matemáticos en situaciones y problemas reales del entorno que permitan conocerlos y resolverlos mediante el uso de lenguajes algorítmicos y de programación accesibles para la toma de decisiones y criterios de optimización y mejora.
+
+## Contenido temático
+
+UNIDAD I. Introducción a la Investigación de Operaciones.
+
+1. Definición, desarrollo y tipos de modelos de investigación de operaciones.
+2. Fases de estudio de la investigación de operaciones.
+3. Principales operaciones de la investigación de operaciones.
+4. Metodología para modelación.
+5. Formulación de problemas lineales más comunes.
+6. Conceptos del método gráfico y su aplicación.
+  
+UNIDAD II. El método Simplex.
+
+1. Teoría del método Simplex.
+2. Forma tabular del método Simplex.
+3. El método de las dos fases.
+4. Casos especiales.
+5. Uso de _software_.
+
+UNIDAD III. Dualidad y análisis de sensibilidad.
+
+1. Teoría primal-dual.
+2. Formulación del problema dual.
+3. Relación primal-dual.
+4. Dual Simplex.
+5. Análisis de sensibilidad: cambio de recursos y sus límites, función objetivo o coeficientes tecnológicos; adición de variables o restricciones.
+6. Interpretación del análisis de sensibilidad.
+7. Uso de _software_.
+
+UNIDAD IV. Programación Entera.
+
+1. Introducción y casos de aplicación.
+2. Definición y modelos de programación entera y binaria.
+3. Método de Gomory.
+4. Método de bifurcación y acotación.
+5. Uso de _software_.
+
+UNIDAD V. Transporte y Asignación.
+
+1. Definición del problema de transporte.
+2. Método de la esquina noroeste.
+3. Método de aproximación de Vogel.
+4. Procedimientos de optimización.
+5. Definición del problema de asignación.
+6. El método Húngaro.
+7. Uso de _software_.
+
+## Criterios de Evaluación.
+
+Criterio | Ponderación
+:---|---:
+Prácticas en _software_| 10%
+Participación en clase | 5%
+Resolución de ejercicios de modelado manual y en _software_ (clase y extraclase) | 10%
+Modelado matemático | 15%
+Exámenes | 60%
+_TOTAL_ | 100%
